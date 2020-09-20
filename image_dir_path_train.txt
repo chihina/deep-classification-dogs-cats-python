@@ -1,0 +1,16 @@
+dog_1 0
+dog_2 0
+dog_3 0
+dog_4 0
+dog_5 0
+dog_6 0
+dog_7 0
+dog_8 0
+cat_1 1
+cat_2 1
+cat_3 1
+cat_4 1
+cat_5 1
+cat_6 1
+cat_7 1
+cat_8 1

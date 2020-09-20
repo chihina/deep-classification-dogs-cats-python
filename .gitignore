@@ -1,0 +1,12 @@
+# python env
+__pycache__/
+dog_cat_env/
+
+# dataset
+datasets/
+
+# large files
+result_loss/
+
+# model weights
+model/
