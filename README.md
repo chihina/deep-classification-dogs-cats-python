@@ -12,7 +12,7 @@ I show loss and accuracy graphs.
 ![Loss graph](loss_figure.png)
 
 ### Accuracy graph
-![Accuracy graph](acc_figure.png)
+![Accuracy graph](https://github.com/chihina/Classification_dogs_and_cats/blob/master/acc_figure.png)
 
 ## Contact
 If you can know about detail me, you can see my website.
