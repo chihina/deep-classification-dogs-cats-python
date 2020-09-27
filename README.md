@@ -9,10 +9,10 @@ I use some network architecture. For example, resnet, vgg and so on.
 I show loss and accuracy graphs. 
 
 ### Loss graph
-![Loss graph] (loss_figure.png?raw=true)
+![Loss graph] (loss_figure.png)
 
 ### Accuracy graph
-![Accuracy graph] (acc_figure.png?raw=true)
+![Accuracy graph] (acc_figure.png)
 
 ## Contact
 If you can know about detail me, you can see my website.
