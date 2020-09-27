@@ -14,7 +14,7 @@ I show loss and accuracy graphs.
 ### Accuracy graph
 ![Accuracy graph](https://github.com/chihina/Classification_dogs_and_cats/blob/master/acc_figure.png)
 
-## Contact
+## Contacts
 If you can know about detail me, you can see my website.
 
 Qitta page: https://qiita.com/chi-na  
